@@ -4,7 +4,7 @@
 **Difficulté :** Easy
 **OS :** Ubuntu 24.04 LTS (Noble Numbat)
 
-Ce document retrace, étape par étape, la compromission complète de la machine, avec l'explication de chaque terme technique employé. L'objectif est que tu puisses réutiliser cette méthodologie sur d'autres labs de privilege escalation / SSRF.
+Ce document retrace, étape par étape, la compromission complète de la machine, avec l'explication de chaque terme technique employé.
 
 ---
 
